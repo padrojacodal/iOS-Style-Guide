@@ -33,12 +33,17 @@
 #### **Configurations & Schemes**
 
 - Development
+- QA
 - Staging
 - Production
 
 It can be have more then 3 configurations depending on the project requirements. Can have different naming conventions too.
 
-##### Note: Application name, bundle identifier, icons should be based on the configurations.
+##### Note: Application name, bundle identifier, icons should be based on the configurations. Make it shared with other users.
+
+##
+
+#### GitIgnore
  
 ##
 
