@@ -6,7 +6,7 @@
 
 - Purely Entity
 - No or very minimum logic
-- Don't have any refernece of View
+- Don't have any reference of View
 - Only ViewModel has access to it
 
 ##### View:
@@ -26,6 +26,7 @@
 - It should be easily testable.
 - All functionalities here should be single purpose.
 - Divide into extensions for different part like network, helper functions.
+- Don't know anything about view.
 
 ##
 
