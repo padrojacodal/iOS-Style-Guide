@@ -113,3 +113,9 @@ fastlane/test_output
 
 
 ##
+
+#### Project Folder Structure
+
+##
+
+#### Naming Conventions
